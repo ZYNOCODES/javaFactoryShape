@@ -4,28 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cbcce70c-68a6-418e-a7a4-adb0fc09ec82" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Circle2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Circle3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/ShapeFactory2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/ShapeFactory3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Square2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Square3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Triangle2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/classes/Triangle3D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/ShapeFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/interfaces/Triangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/td4exo1.iml" afterDir="false" />
-    </list>
+    <list default="true" id="cbcce70c-68a6-418e-a7a4-adb0fc09ec82" name="Changes" comment="init commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +35,6 @@
     "Application.Main.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "master",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
@@ -76,11 +54,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1713817152114</updated>
-      <workItem from="1713817153616" duration="4312000" />
+      <workItem from="1713817153616" duration="4737000" />
     </task>
+    <task id="LOCAL-00001" summary="init commit">
+      <option name="closed" value="true" />
+      <created>1713821772299</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1713821772300</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="init commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="init commit" />
   </component>
 </project>
